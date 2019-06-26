@@ -26,7 +26,7 @@ public class TA extends JFrame {
 	// karena kalau point di tengah maka objek menjadi geser ke kanan bawah sesuai dengan point yaitu titik tengah 
 	private int y = (CANVAS_HEIGHT / 2) - (LEBAR / 2);		
 	private int x = (CANVAS_WIDTH / 2) - (PANJANG / 2);
-	// default value warna
+	// default value warna untuk objek dan background
 	private Color warnaObjek = Color.RED;
 	private Color warnaBackground = Color.BLACK;
 
